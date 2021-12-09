@@ -11,7 +11,6 @@ setup(
     description='A short description of the project.',
     author='BENITO',
     author_email="whabeto@gmail.com",
-    description="A small example package",
     url="https://github.com/Benito659/DATA_OPS_PROJET.git",
     license='MIT',
 )
